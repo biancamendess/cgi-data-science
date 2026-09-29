@@ -1,20 +1,25 @@
-# Introduction to Data Science
+# NumPy
 
 ## Sobre a aula
 
-A primeira aula apresentou os conceitos introdutórios de Data Science, sua finalidade e suas principais aplicações. Também foi apresentada a estrutura da formação e os conteúdos que serão abordados ao longo do programa.
+A segunda aula apresentou a biblioteca NumPy e sua importância para computação numérica em Python. Foram introduzidos os arrays e alguns dos principais conceitos utilizados para criar, acessar e manipular dados com NumPy.
 
 ## O que aprendi
 
-- O que é Data Science;
-- Qual é a finalidade da área;
-- Como dados podem ser utilizados para gerar informações e apoiar decisões;
-- Uma visão geral dos conteúdos que serão estudados durante a formação.
+* O que é NumPy e para que ele é utilizado;
+* O que são `ndarray` e arrays multidimensionais;
+* Como criar arrays utilizando NumPy;
+* Como consultar características de um array, como `shape`, `ndim`, `size` e `dtype`;
+* Como acessar e alterar elementos utilizando indexação;
+* Como selecionar partes de um array utilizando slicing;
+* Como realizar operações aritméticas com arrays;
+* Como utilizar funções de agregação;
+* Como o `axis` funciona em operações com arrays multidimensionais.
 
 ## Reflexão
 
-A aula foi importante para compreender melhor o campo de Data Science e ter uma visão geral do caminho que será percorrido durante a formação. Também despertou meu interesse em aprofundar meus conhecimentos na área.
+A aula foi importante para entender a estrutura básica do NumPy e como os arrays podem ser utilizados para trabalhar com dados numéricos de forma mais eficiente. Os conceitos apresentados também servem como base para conteúdos que serão estudados posteriormente em Data Science.
 
 ## Material da aula
 
-[Introduction to Data Science - GCI World](https://www.youtube.com/watch?v=Gg6ZeOaCUTw)
+[NumPy - GCI World]

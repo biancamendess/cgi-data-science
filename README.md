@@ -81,7 +81,7 @@ gci-data-science/
 ## Progresso
 
 * [x] Introduction to Data Science
-* [ ] Manipulating Data Using NumPy
+* [x] Manipulating Data Using NumPy
 * [ ] Cleaning Data Using Pandas
 * [ ] Visualizing Data Using Matplotlib
 * [ ] Supervised Learning
